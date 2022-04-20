@@ -1,0 +1,23 @@
+.main {
+  min-height: 100vh;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px 50px;
+}
+.canvas {
+  height: 100vh !important;
+  width: 100%;
+}
+.heading {
+  text-align: center;
+}
+.content {
+  margin-top: 40px;
+  display: flex;
+}
+.content ol {
+  padding-left: 20px;
+}
+.content ol li {
+  margin-bottom: 8px;
+}
